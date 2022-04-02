@@ -38,7 +38,7 @@ const Header = () => {
                         }}
 							to="/favourite"
 						>
-							Favourite
+							FAVOURITE
 						</NavLink>
 					</li>
 					<li className="text-2xl bg-[#35b9ca] font-sans my-8 rounded px-4 py-2 flex justify-center">
