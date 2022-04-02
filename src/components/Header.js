@@ -6,7 +6,7 @@ const Header = () => {
 
     
 	return (
-		<div className="h-[100vh] bg-yellow-100 w-[400px] flex justify-center items-center md:sticky top-0 absolute -left-96 px-2 md:left-0">
+		<div className="h-[100vh] bg-yellow-100 w-[400px] flex justify-center items-center md:sticky top-0 absolute left-[-800px] px-2 md:left-0">
 			<nav className="w-full flex flex-col justify-evenly h-full">
 				<ul>
 					<Link
